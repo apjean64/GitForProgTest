@@ -1,2 +1,2 @@
-# GitForProgTest
-A test to demonstrate Pro Git For Programmers
+# GitForProgrammingTest
+A test program to demonstrate Pro Git For Programmers
